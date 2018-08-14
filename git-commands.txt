@@ -1,0 +1,20 @@
+Here is the step by step procedure:
+1.) These are going to tell who are going to acess our code: 
+git config --global user.name "Sam Smith"
+git config --global user.email sam@example.com
+
+2.)initializes git in the project:
+git init
+
+3.)add all the files in the project:
+git add-A
+
+4.)this helps us to take snapshots and commit changes:
+git commit -m "Commit message"
+
+5.)status-List the files you've changed and those you still need to add or commit:
+git status
+
+6.)mark the changed file:
+git add <filename>
+
